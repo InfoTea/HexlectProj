@@ -1,0 +1,17 @@
+head-mp-h1 {
+    font-size: 30px;
+    color: #303030;
+    padding-bottom: 0px;
+    border-bottom: 0ps;
+    margin-bottom: 0ps;
+
+}
+.head-mp {
+    height: 100px;
+    width: auto;
+    font-size: 20px;
+    color: #121212;
+    padding: 5px;
+    border: 1px;
+    margin: 5px;
+}
